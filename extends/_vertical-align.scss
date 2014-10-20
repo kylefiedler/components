@@ -1,0 +1,4 @@
+%vertical-align {
+  @include position(relative, 50% null null null);
+  @include transform(translateY(-50%));
+}

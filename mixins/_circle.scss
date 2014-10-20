@@ -1,0 +1,4 @@
+@mixin circle($size: 1em) {
+  @include size($size);
+  border-radius: 50%;
+}
